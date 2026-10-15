@@ -1,6 +1,8 @@
 # 📚 Analytics Engineer no Fabric - Guia Completo
 
-## Bem-vindo, Roma! 🎯
+## Bem-vindo, 🎯
+
+# Atençao: As formulas e scripts usadas nesse projeto foram executadas em janeiro de 2026 em py and BI mais possa ser que essas informações e mmd precise ser otimizadas então dependendo o programa que for usar verifica com AI se precisa de alguma atualização.
 
 Este é um **guia passo a passo completo** para construir um projeto de **Analytics Engineer profissional** no Microsoft Fabric, do zero até dashboards em Power BI.
 
@@ -11,9 +13,10 @@ Você tem aqui **3 arquivos principais** + este sumário. Tudo pronto para execu
 ## 📖 ARQUIVOS DESTE PROJETO
 
 ### 1. **Analytics_Engineer_Fabric_Guia_Completo.md** (Teórico)
-**Objetivo:** Entender as 7 fases de um projeto Analytics Engineer
+
 
 **Conteúdo:**
+
 - ✅ Fase 1: Ingestão de Dados (APIs, arquivos, databases)
 - ✅ Fase 2: Armazenamento (Lakehouse, Medallion Architecture)
 - ✅ Fase 3: Transformação (SQL, PySpark, Dataflows)
@@ -27,10 +30,13 @@ Você tem aqui **3 arquivos principais** + este sumário. Tudo pronto para execu
 ---
 
 ### 2. **Fabric_Analytics_Engine_Codigo_Completo.py** (Prático)
+
 **Objetivo:** Código Python **pronto para executar** em um Notebook do Fabric
 
 **Conteúdo:**
-```python
+
+```
+python
 # Copia e cola no Fabric Notebook e executa tudo de uma vez!
 
 # ✅ Cria dados de exemplo (sem precisar do Kaggle)
@@ -49,6 +55,7 @@ Você tem aqui **3 arquivos principais** + este sumário. Tudo pronto para execu
 - Cada seção pode ser executada independentemente
 
 **Como usar:**
+
 ```
 1. Abra seu Fabric workspace
 2. Crie um Notebook
@@ -124,13 +131,6 @@ Dashboard 4: Temporal Analysis    (Seasonality + Forecast)
 5. Incrementalização (Upsert)
 6. Compactação de arquivos
 
-❓ **FAQ:**
-- Quanto tempo leva criar o projeto?
-- Qual tamanho máximo de dados?
-- Python ou Spark SQL?
-- Como fazer backup?
-- Como versionamento?
-- E mais 5 perguntas...
 
 **Quando usar:** Quando algo der errado ou quiser otimizar performance
 
@@ -138,8 +138,7 @@ Dashboard 4: Temporal Analysis    (Seasonality + Forecast)
 
 ## 🎯 ROTEIRO RECOMENDADO
 
-### Opção A: Iniciante Completo (1-2 dias)
-```
+
 Dia 1 - Entender (2h)
 └─ Ler: Analytics_Engineer_Fabric_Guia_Completo.md (Fase 1-4)
 └─ Ler: Diagrama das 7 fases (acima)
@@ -163,7 +162,6 @@ Dia 2 - Troubleshooting (1h)
 
 ---
 
-### Opção B: Já tem experiência com BI (Half-day)
 ```
 Rápido (2h)
 └─ Executar: Fabric_Analytics_Engine_Codigo_Completo.py
@@ -176,9 +174,6 @@ Power BI (2h)
 └─ Criar dashboards
 ```
 
----
-
-### Opção C: Usar com Dataset Real do Kaggle (2-3 dias)
 
 ```
 Preparação (1h)
@@ -281,44 +276,6 @@ Ao final, seus dashboards terão:
 - Profit Margin by Segment
 
 ---
-
-## 🚀 PRÓXIMOS PASSOS (APÓS CONCLUSÃO)
-
-1. **Expandir Modelo:**
-   - Adicionar previsões (ML)
-   - Implementar Cohort Analysis
-   - Churn Modeling
-
-2. **Automatizar:**
-   - Agendar pipelines diários
-   - Alertas em tempo real
-   - Notificações no Teams
-
-3. **Governança:**
-   - Implementar RLS (Row-Level Security)
-   - Data Lineage completo
-   - Data Catalog
-
-4. **Publicar:**
-   - Power BI Service
-   - Compartilhar com stakeholders
-   - Documentação em Wiki
-
-5. **Portfolio:**
-   - Publicar no GitHub
-   - Criar case study
-   - LinkedIn post
-
----
-
-## ❓ SUPORTE E DÚVIDAS
-
-Cada arquivo tem:
-- ✅ **Exemplos práticos** prontos para copiar
-- ✅ **Screenshots** de estrutura esperada
-- ✅ **Erros comuns** e como resolver
-- ✅ **Performance tips** específicos
-
 Se ficar preso em algo:
 
 1. **Procure em:** Troubleshooting_Performance_Tips.md
@@ -326,15 +283,6 @@ Se ficar preso em algo:
    - Busque no Stack Overflow: `[fabric]`, `[spark-sql]`, `[power-bi]`
    - Consulte docs: Microsoft Fabric Docs (learn.microsoft.com/en-us/fabric)
 
----
-
-## 📋 CHECKLIST - COMECE AQUI
-
-- [ ] Baixei/li os 4 arquivos
-- [ ] Tenho acesso ao Microsoft Fabric workspace
-- [ ] Tenho Power BI Desktop instalado
-- [ ] Escolhi meu roteiro (Opção A, B ou C)
-- [ ] Estou pronto(a) para começar!
 
 **Próximo passo:** Abra o arquivo **`Analytics_Engineer_Fabric_Guia_Completo.md`** e comece pela Fase 1!
 
@@ -357,20 +305,9 @@ Após completar este projeto, você será capaz de:
 
 ---
 
-## 📞 Contato & Feedback
+Contato e feedback
 
-Encontrou um erro ou tem sugestão?
-- Este é um guia vivo - melhore-o conforme avança
-- Documente o que aprendeu
-- Compartilhe com colegas
-
----
-
-## 🎉 Vamos Começar!
-
-**Sucesso no seu projeto, Roma!** 🚀
-
-Você tem tudo que precisa para ir do zero a um analytics engineer profissional.
+anunciacao.datanalysis@gmail.com
 
 ---
 

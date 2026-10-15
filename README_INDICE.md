@@ -8,6 +8,8 @@ Este é um **guia passo a passo completo** para construir um projeto de **Analyt
 
 Você tem aqui **3 arquivos principais** + este sumário. Tudo pronto para executar!
 
+data set olist da Kaggle  https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ---
 
 ## 📖 ARQUIVOS DESTE PROJETO

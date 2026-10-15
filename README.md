@@ -1,1 +1,0 @@
-# data-arquiteture-fabric-I
